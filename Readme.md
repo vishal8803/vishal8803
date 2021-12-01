@@ -1,5 +1,4 @@
 
-
 <p align="center">
     <img width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </p>
@@ -49,19 +48,9 @@
  <a href = "mailto: badrivishalsinghal8803@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 <br>
-<br>
-  <br>
   
 [![Badri's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishal8803&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Badri's github stats](https://github-readme-stats.vercel.app/api?username=vishal8803&show_icons=true&theme=tokyonight) | ![Badri GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal8803&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal8803&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=vishal8803&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
-
-
------
