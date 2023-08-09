@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Indian Institute of Information Technology (IIIT) Bhopal
+- :school: I am a `Senior` at Indian Institute of Information Technology (IIIT) Bhopal
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a Competitive Programmer at `Leetcode` and `Codechef`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
